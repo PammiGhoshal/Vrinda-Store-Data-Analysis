@@ -1,1 +1,1 @@
-This is Pammi Ghoshal, currently pursuing B.Sc. Economics at Bethune College. My journey extends far beyond the classroom as I immerse myself in the world of analytics. In this realm, I'm trying to  specialize in data science and data analytics, harnessing the power of Python, SQL, Excel, and visualization tools such as Power BI and Tableau besides my social communication skills. I've also delved into this fascinating field consistently working on intriguing projects and internships in these domains. 
+
